@@ -1,6 +1,6 @@
 cask 'seethrough' do
   version '1.0.0'
-  sha256 '0b0aa011a86a87e10ae63dbaa3102ca117f3e0b0c8db4891daaf386ca1250778'
+  sha256 '9249948f7a3005126c4d479464d3ef84efde00f58c893fce75cdd683302dc36c'
 
   url "https://github.com/vinhnglx/seethrough-release/releases/download/#{version}/SeeThrough-#{version}.dmg"
   name 'SeeThrough'
